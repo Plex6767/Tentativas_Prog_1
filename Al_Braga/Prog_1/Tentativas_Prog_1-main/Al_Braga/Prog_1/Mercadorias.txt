@@ -1,0 +1,5 @@
+Nome, Preço, Quantidade
+Guaraná, R$4.99, 250
+Água, R$1.80, 1200
+Óleo, R$8.99, 300
+Açúcar, R$5.00, 400
